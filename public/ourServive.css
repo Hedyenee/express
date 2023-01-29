@@ -1,0 +1,22 @@
+
+body {
+    background-image: url('./');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Pacifico', cursive ;
+    background-image: url("https://www.arkasoftwares.com/blog/wp-content/uploads/2020/12/online-Book-store-mobile-app.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  .pf1,.pf2,.pf3 {
+    font-family: 'Pacifico', cursive ;
+    text-align: center;
+    text-decoration: wavy;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif,;
+    text-align: center;
+    
+  }
+ 
+   
